@@ -1,5 +1,5 @@
 {
-  "version": "2.0.6",
+  "version": "2.0.7",
   "apk": "https://github.com/alryes96/idarati-updates/releases/latest/download/idarati.apk",
-  "notes": "الإصدار الرسمي 2.0.6 — إضافة رسالة مداعاة بالدين عبر WhatsApp وتحسينات عامة."
+  "notes": "الإصدار الرسمي 2.0.7 — تعديل تاريخ البداية والنهاية يدويًا، وإضافة رسالة WhatsApp بعد تجديد/تفعيل الاشتراك وتحسينات عامة."
 }
